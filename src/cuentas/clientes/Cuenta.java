@@ -12,7 +12,7 @@ public class Cuenta {
     {
         nombre ="";
         cuenta="";
-        saldo=0;
+        saldo=1;
         tipoInteres=0;
     }
 
